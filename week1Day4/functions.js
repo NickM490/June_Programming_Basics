@@ -67,3 +67,4 @@ function hello() {
 var result = hello();
 console.log('result is', result);
 // console.log(hello())
+
